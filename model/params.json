@@ -1,0 +1,13 @@
+{
+  "device": "cuda",
+  "num_samples": 2000,
+  "attr_dim": {
+    "other": 2000,
+    "gender": 30,
+    "age": 20,
+    "glasses": 20,
+    "smile": 20,
+    "race": 20,
+    "pose": 20
+  }
+}
