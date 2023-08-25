@@ -28,12 +28,13 @@ python main.py
 ## Citation
 If you use our code or model useful in your research, please cite this paper: 
 ```
-@article{naveh2022orthogan,
-title={OrthoGAN: Multifaceted Semantics for Disentangled Face Editing},
-author={Naveh, Chen and Hel-Or, Yacov},
-journal={arXiv e-prints},
-pages={arXiv--2211},
-year={2022}
+@article{naveh2023multidirectional,
+      title={Multi-Directional Subspace Editing in Style-Space}, 
+      author={Chen Naveh and Yacov Hel-Or},
+      year={2023},
+      eprint={2211.11825},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
